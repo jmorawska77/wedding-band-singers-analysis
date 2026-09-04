@@ -1,8 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this code, please cite it using the metadata below."
 type: software
-title: "Analysis code for Polish Wedding-Band Singers: Self-Reported Voice Outcomes Compared With Contemporary Commercial Music Singers"
-version: "1.0.0"
+title: "Wedding-band singers voice outcomes analysis code"
 date-released: "2026-09-04"
 authors:
   - family-names: "Morawska"
